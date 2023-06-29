@@ -26,7 +26,7 @@ and More!
 
 # Contact Us
 
-If there is any questions or concerns please feel free to reach out to: nsepich@iastate.edu
+If there is any questions or concerns please feel free to reach out to: gilbert@iastate.edu
 
 # Disclaimer
 
