@@ -1,7 +1,9 @@
 # CyberSickness-Cornmaze
 A corn maze designed to be a testbed for cybersickness experiments.
 
-Check out this video demonstration: https://youtu.be/GI5c5vbf7Fk
+Check out this video demonstration of the 2D corn maze: https://youtu.be/GI5c5vbf7Fk
+
+A new 3D corn maze was also created. For videos of it (and data from ACID study it was used with), see https://osf.io/29ufh/
 
 # Description
 
